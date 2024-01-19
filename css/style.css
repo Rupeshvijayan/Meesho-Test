@@ -1,0 +1,179 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+/* .container{ */
+    /* width:70%; */
+    /* margin:auto; */
+/* } */
+
+/* .row{ */
+    /* display:flex; */
+/* } */
+
+/* .col{ */
+    /* width:50%; */
+	/* padding:0 10px; */
+/* } */
+
+.card{
+	border:1px solid #aaaaaa;
+	border-radius:5px;
+}
+	
+.img-col{
+    display:flex;
+}
+
+/* .mini-img{ */
+    /* display:flex; */
+    /* flex-direction:column; */
+	/* width:15%; */
+/* } */
+
+/* .mini-img-1{ */
+    /* width:80%; */
+    /* padding:20px 0; */
+/* } */
+
+.mini-img-1 img{
+    width:100%;
+}
+
+.mini-img-row{
+	display:flex;
+	width:70%;
+	margin-left:50px;
+}
+	
+.img{
+    border:1px solid;
+    padding:0 30px;
+	margin:20px 0 0;
+}
+
+.img img{
+    width:100%;
+}
+
+.title-carousel{
+	padding:10px 0;
+}
+	
+.button{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+/* .btn-1, .btn-2{ */
+	/* padding:10px 15px; */
+/* } */
+	
+/* .btn-1 button{ */
+	/* padding:15px 50px; */
+	/* background-color:#fff; */
+	/* border:1px solid; */
+	/* border-radius:5px; */
+/* }	 */
+
+/* .btn-2 button{ */
+	/* background-color:#FF0080; */
+	/* padding:15px 50px; */
+	/* border:none; */
+	/* color:#fff; */
+	/* border-radius:5px; */
+/* }	 */
+	
+.row-1{
+    display:flex;
+	flex-direction:column;
+}
+
+/* .col-1{ */
+    /* width:100%; */
+    /* padding:10px; */
+/* } */
+
+.card{
+	margin:10px 0;
+	padding:10px;
+}
+	
+.size-icon{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:70%;
+}
+
+.icon{
+    border:1px solid;
+    padding:0 15px;
+	border-radius:10px;
+}
+
+.shop-row{
+	display:flex;
+	justify-content:space-between;
+}	
+
+.card h4{
+	padding:10px 0;
+}
+
+.card h6{
+	padding:5px 0;
+	color:#808080;
+}	
+	
+.card .price{
+	font-size:1.5rem;
+	font-weight:bold;
+}
+
+.card p{
+	font-size:0.7rem;
+	font-weight:bold;
+	color:#aaaaaa;
+	padding: 10px 0 15px;
+}	
+
+.card .span-rating{
+	color:#fff;
+	background-color:green;
+	padding:3px 10px;
+	border-radius:10px;
+}	
+
+.del-btn{
+	padding:5px 10px;
+	border:none;
+	color:#808080;
+	border-radius:5px;
+}	
+
+.shop-icon{
+	background-color:#5072A7;
+	border-radius:50%;
+	padding:5px 15px;
+}
+	
+.shop-icon i{
+	font-size:1.8rem;
+	color:#7CB9E8;
+}	
+
+.shop-btn button{
+	border:2px solid #FF0080;
+	border-radius:5px;
+	color:#FF0080;
+	background-color:#fff;
+	padding:10px 30px;
+}	
+	
+	
+	
